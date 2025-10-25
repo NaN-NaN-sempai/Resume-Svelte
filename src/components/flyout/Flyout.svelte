@@ -24,10 +24,10 @@
     
     <div class="itemList">
         <a class="link item"
-        data-title="LUIS@LUISHENRIQUE.SPACE"
-        href="mailto:luis@luishenrique.space" target="_blank">
+        data-title="CONTACT@LUISHENRIQUE.SPACE"
+        href="mailto:contact@luishenrique.space" target="_blank">
             <CompoundItem icon="Email">
-                luis@luishenrique.space
+                contact@luishenrique.space
             </CompoundItem>
         </a>
         
